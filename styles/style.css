@@ -2,7 +2,7 @@
   min-width: 1100px;
   max-width: 1600px;
   margin: 0 auto;
-  font-family: "Helvetica Neue", "Arial", "sans-serif";
+  font-family: "Helvetica Neue";
 }
 
 .header {
@@ -15,6 +15,7 @@
   margin-bottom: 100px;
   overflow: hidden;
   background-position: center;
+  font-family: "Helvetica Neue";
 }
 
 .logo_place_header {
@@ -77,6 +78,7 @@
   gap: 50px;
   min-width: 784px;
   justify-content: center;
+  font-family: "Helvetica Neue";
 }
 
 .two-columns__brief {
@@ -117,6 +119,7 @@
   flex-direction: column;
   align-items: center;
   margin-bottom: 100px;
+  font-family: "Helvetica Neue";
 }
 
 .section-title {
@@ -179,6 +182,7 @@
   position: relative;
   display: flex;
   flex-direction: column;
+  font-family: "Helvetica Neue";
 }
 
 .feynman__title {
@@ -234,6 +238,7 @@
   background-color: black;
   position: relative;
   margin: 0;
+  font-family: "Helvetica Neue";
 }
 
 .kaufman__triangle {
@@ -251,6 +256,7 @@
   font-size: 60px;
   font-weight: bold;
   margin-top: 90px;
+  margin-bottom: 0;
   text-align: center;
   color: white;
   z-index: 1;
@@ -313,6 +319,7 @@
   display: flex;
   position: relative;
   margin: 0;
+  font-family: "Helvetica Neue";
 }
 
 .footer__columns {
