@@ -27,7 +27,7 @@
   font-family: "Helvetica Neue";
 }
 
-.logo__place_header {
+.logo__place-header {
   width: 154px;
   height: 31px;
   z-index: 1;
@@ -318,7 +318,7 @@
   padding: 20px auto 60px auto;
 }
 
-.table {
+.digits__table {
   flex-wrap: wrap;
   display: flex;
   flex-direction: row;
@@ -328,14 +328,14 @@
   padding: auto;
 }
 
-.table__cell {
+.digits__table_cell {
   display: flex;
   width: 250px;
   flex-direction: column;
   justify-content: flex-start;
 }
 
-.table__heading {
+.digits__table_heading {
   line-height: 1.5;
   font-size: 24px;
   margin: 0;
@@ -343,7 +343,7 @@
   row-gap: 20px;
 }
 
-.table__text {
+.digits__table_text {
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
@@ -482,7 +482,7 @@
   z-index: 2;
 }
 
-.table__theme_dark {
+.table {
   flex-wrap: wrap;
   display: flex;
   flex-direction: row;
@@ -496,7 +496,7 @@
   margin-top: 80px;
   row-gap: 80px;
 }
-.table__cell_theme_dark {
+.table__cell {
   width: 200px;
   color: white;
   margin: auto;
@@ -506,14 +506,14 @@
   z-index: 4;
 }
 
-.table__heading_theme_dark {
+.table__heading {
   line-height: 1.5;
   font-size: 24px;
   font-weight: bold;
   margin: 0;
 }
 
-.table__text_theme_dark {
+.table__text {
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
@@ -579,7 +579,7 @@
   justify-content: space-between;
 }
 
-.logo__place_footer {
+.logo__place-footer {
   width: 183px;
   height: 35px;
   align-self: flex-start;
