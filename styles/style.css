@@ -27,7 +27,7 @@
   font-family: "Helvetica Neue";
 }
 
-.logo__place-header {
+.logo_place-header {
   width: 154px;
   height: 31px;
   z-index: 1;
@@ -458,7 +458,7 @@
   padding-top: 90px;
 }
 
-.kaufman-title {
+.kaufman-title_theme_dark {
   width: 60%;
   line-height: 1.15;
   font-size: 60px;
@@ -470,7 +470,7 @@
   z-index: 1;
 }
 
-.kaufman-subtitle {
+.kaufman-subtitle_theme_dark {
   width: 60%;
   font-weight: normal;
   text-align: center;
