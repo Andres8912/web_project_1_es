@@ -1,0 +1,10 @@
+
+.table {
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1100px;
+    margin: 60px auto 100px auto;
+    padding: auto;
+  }

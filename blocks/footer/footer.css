@@ -1,0 +1,12 @@
+.footer {
+    background-color: black;
+    min-height: 350px;
+    color: white;
+    padding-top: 60px;
+    padding-bottom: 40px;
+    display: flex;
+    position: relative;
+    margin: 0;
+    font-family: "Helvetica Neue";
+    box-sizing: border-box;
+  }

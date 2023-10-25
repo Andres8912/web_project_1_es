@@ -1,0 +1,14 @@
+.table_theme_dark {
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    width: 1100px;
+    margin-bottom: 90px;
+    justify-content: space-between;
+    margin-right: auto;
+    margin-left: auto;
+    z-index: 3;
+    position: relative;
+    margin-top: 80px;
+    row-gap: 80px;
+  }

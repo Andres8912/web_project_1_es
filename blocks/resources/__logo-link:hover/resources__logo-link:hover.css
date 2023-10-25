@@ -1,0 +1,5 @@
+.resources__logo-link:hover{
+    background-color: rgb(253, 255, 255);
+    transition: 0.7s ease-in-out;
+    opacity: 0.4;
+  }
